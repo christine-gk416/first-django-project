@@ -1,1 +1,1 @@
-web: gunicorn first-django-project.wsgi:application
+web: gunicorn fcmk416-django-todo-app.wsgi:application
